@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+# CS340 Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -99,6 +99,6 @@ Unauthorized student recording of classroom or other academic activities (includ
 Northwestern University is committed to supporting the wellness of our students. Student Affairs has multiple resources to support student wellness and mental health. If you are feeling distressed or overwhelmed, please reach out for help. Students can access confidential resources through the Counseling and Psychological Services (CAPS), Religious and Spiritual Life (RSL) and the Center for Awareness, Response and Education (CARE). Additional information on all of the resources mentioned above can be found here:
 
 
-- https://www.northwestern.edu/counseling/
-- https://www.northwestern.edu/religious-life/
-- https://www.northwestern.edu/care/
+- (https://www.northwestern.edu/counseling/)
+- (https://www.northwestern.edu/religious-life/)
+- (https://www.northwestern.edu/care/)
