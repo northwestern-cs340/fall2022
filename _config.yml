@@ -19,7 +19,7 @@ description: ""
 author: Esteban Carisimo
 baseurl: '/fall2022' # the subpath of your site, e.g. /blog
 url: 'https://northwestern-cs340.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -29,6 +29,8 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
+    - 'https://'
+  Piazza:
     - 'https://'
 footer_content:
 
