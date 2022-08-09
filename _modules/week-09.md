@@ -1,11 +1,13 @@
 ---
-title: Week 1
+title: Week 9
 ---
 
-Tue Sep 20
-: **Lacture 1**{: .label .label-purple }[Introduction](#)
-: **Reading**{: .label .label-blue }: _Chapter 1: Computer Networks and the Internet_
+Tue Nov 15
+: **Lecture 16**{: .label .label-purple }[Authentication](#)
+: **Reading**{: .label .label-blue }: _Chapter 8.3 - 8.6: Authentication_
 
-Thu Sep 22
-: **Lacture 2**{: .label .label-purple }[Internet Core, Layering and Sockets](#)
-: **Reading**{: .label .label-blue }: _Cont. Chapter 1: Computer Networks and the Internet_
+
+Thu Nov 17
+: **Lecture 17**{: .label .label-purple }[Mobility](#)
+: **Reading**{: .label .label-blue }: _Chapter 7.5 - 7.8: Mobility_
+: **Homework 4**{: .label .label-red }: **DUE**

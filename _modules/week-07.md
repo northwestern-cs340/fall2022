@@ -1,11 +1,11 @@
 ---
-title: Week 1
+title: Week 7
 ---
 
-Tue Sep 20
-: **Lacture 1**{: .label .label-purple }[Introduction](#)
-: **Reading**{: .label .label-blue }: _Chapter 1: Computer Networks and the Internet_
+Tue Nov 1
+: **Lecture 12**{: .label .label-purple }[Broadcast](#)
 
-Thu Sep 22
-: **Lacture 2**{: .label .label-purple }[Internet Core, Layering and Sockets](#)
-: **Reading**{: .label .label-blue }: _Cont. Chapter 1: Computer Networks and the Internet_
+Thu Nov 3
+: **Lecture 13**{: .label .label-purple }[Medium Access Control](#)
+: **Reading**{: .label .label-blue }: _Chapter 6.1 - 6.3: Link Layer Basics_
+: **Homework 3**{: .label .label-red }: **DUE**

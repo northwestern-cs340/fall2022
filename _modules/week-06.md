@@ -1,11 +1,15 @@
 ---
-title: Week 1
+title: Week 6
 ---
 
-Tue Sep 20
-: **Lacture 1**{: .label .label-purple }[Introduction](#)
-: **Reading**{: .label .label-blue }: _Chapter 1: Computer Networks and the Internet_
+Mon Oct 24
+: **Project 2**{: .label .label-red }: **DUE**
 
-Thu Sep 22
-: **Lacture 2**{: .label .label-purple }[Internet Core, Layering and Sockets](#)
-: **Reading**{: .label .label-blue }: _Cont. Chapter 1: Computer Networks and the Internet_
+Tue Oct 25
+: **Midterm Exam**{: .label .label-red}
+
+Thu Oct 13
+: **Lecture 11**{: .label .label-purple }[BGP Routing](#)
+: **Reading**{: .label .label-blue }: _Chapter 5.4 and 5.8: BGP_
+: **Homework 3**{: .label .label-green }: Released
+: **Project 3**{: .label .label-green }: Released

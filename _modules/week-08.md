@@ -1,11 +1,16 @@
 ---
-title: Week 1
+title: Week 8
 ---
 
-Tue Sep 20
-: **Lacture 1**{: .label .label-purple }[Introduction](#)
-: **Reading**{: .label .label-blue }: _Chapter 1: Computer Networks and the Internet_
+Tue Nov 8
+: **Lecture 14**{: .label .label-purple }[Ethernet](#)
+: **Reading**{: .label .label-blue }: _Chapter 6.4 - 6.8: Ethernet_
 
-Thu Sep 22
-: **Lacture 2**{: .label .label-purple }[Internet Core, Layering and Sockets](#)
-: **Reading**{: .label .label-blue }: _Cont. Chapter 1: Computer Networks and the Internet_
+Wed Nov 9
+: **Project 3**{: .label .label-red }: **DUE**
+
+Thu Nov 10
+: **Lecture 15**{: .label .label-purple }[Encryption and Anonymity](#)
+: **Reading**{: .label .label-blue }: _Chapter 8.1 - 8.2: Encryption_
+: **Homework 4**{: .label .label-green }: Released
+: **Project 4 (optional)**{: .label .label-green }: Released
