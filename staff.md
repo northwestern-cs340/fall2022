@@ -26,7 +26,11 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
-## Teaching Assistants
+{% assign teaching_assistants = site.staffers | where: 'role', 'Peer Mentor' %}
+{% assign num_peer_mentors = peer_mentors | size %}
+{% if num_peer_mentors != 0 %}
+
+## Peer Mentors
 
 {% for staffer in peer_mentors %}
 {{ staffer }}
