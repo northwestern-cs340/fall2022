@@ -24,7 +24,7 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
 # color_scheme: light
-color_scheme: northwestern-brand-colors
+color_scheme: northwestern
 search_enabled: true
 heading_anchors: true
 permalink: pretty
