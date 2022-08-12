@@ -13,7 +13,3 @@ description: >-
 - [**Wizard Zines by Julia Evan**](https://wizardzines.com): Brief zines explaining basic CS and programming concepts
   - [tcpdump](https://jvns.ca/tcpdump-zine.pdf)
   - [networking](https://jvns.ca/networking-zine.pdf)
-
-- (https://www.northwestern.edu/counseling/)
-- (https://www.northwestern.edu/religious-life/)
-- (https://www.northwestern.edu/care/)
