@@ -1,4 +1,7 @@
-# CS340 - introduction to Introduction to Computer Networking
+# {{ site.tagline }}
+{: .mb-2 }
+{{ site.description }}
+{: .fs-6 .fw-300 }
 
 ## About the CS340 fall 2022 course
 
