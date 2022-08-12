@@ -1,4 +1,10 @@
-# CS340 - Fall 2022
+# CS340 - introduction to Introduction to Computer Networking
+
+## About the CS340 fall 2022 course
+
+- **Instructor**: Esteban Carisimo
+- **Location**: Lutkin Hal
+- **Time** Tuesdays and Thursdays 9:30AM - 10:50AM
 
 ## Overview
 
