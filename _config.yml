@@ -19,7 +19,7 @@ description: "Northwestern University, Fall 2022"
 author: Esteban Carisimo
 baseurl: '/fall2022' # the subpath of your site, e.g. /blog
 url: 'https://northwestern-cs340.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
@@ -75,3 +75,11 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+
+# Footer last edited timestamp
+# https://pmarsceill.github.io/just-the-docs/docs/configuration/#footer-content
+# seen in UCSB https://github.com/ucsb-csw8/s22
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+# the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format
