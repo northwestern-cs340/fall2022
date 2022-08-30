@@ -6,7 +6,7 @@
 ## About the CS340 fall 2022 course
 
 - **Instructor**: Esteban Carisimo
-- **Location**: Lutkin Hal
+- **Location**: Lutkin Hall
 - **Time** Tuesdays and Thursdays 9:30AM - 10:50AM
 
 ## Overview
@@ -17,6 +17,8 @@ This course provides an introduction to fundamental concepts in the design and i
 
 1. **CS214** Data structures
 2. **CS205/213** Basic C/Unix programming
+
+or student should be in the any CS Graduate program (MS or PhD) in order to register for this course.
 
 ## The Learning Environment
 
