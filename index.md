@@ -9,10 +9,6 @@
 - **Location**: Lutkin Hall
 - **Time** Tuesdays and Thursdays 9:30AM - 10:50AM
 
-## CS340 Public files repository
-
-[CS340 Public files repository](https://github.com/northwestern-cs340/fall2022-public-files)
-
 
 ## Overview
 
@@ -24,6 +20,12 @@ This course provides an introduction to fundamental concepts in the design and i
 2. **CS205/213** Basic C/Unix programming
 
 or student should be in the any CS Graduate program (MS or PhD) in order to register for this course.
+
+## CS340 Public files repository
+
+Please visit our public files repository and clone it to your computer. This repo includes all the files you are going to use for your homeworks and projects.
+
+[CS340 Public files repository](https://github.com/northwestern-cs340/fall2022-public-files)
 
 ## The Learning Environment
 
