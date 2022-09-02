@@ -38,5 +38,5 @@ schedule:
       - name: Esteban's Office Hours
         start: 12:00 PM
         end: 1:00 PM
-        location: [Zoom](https://northwestern.zoom.us/j/95312343747)
+        location: Zoom
 ---

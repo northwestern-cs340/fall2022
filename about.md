@@ -24,7 +24,14 @@ description: >-
 
 ## Office Hours
 
-TBF
+- Esteban's: Fri 12:00-1:00pm ([Zoom](https://northwestern.zoom.us/j/95312343747))
+- Holly's: Fri 12:00-1:00pm ([Zoom]( ))
+- Luke's: Fri 12:00-1:00pm ([Zoom]( ))
+- Andrew's: Fri 12:00-1:00pm ([Zoom]( ))
+
+---
+
+
 
 ## Grading
 
