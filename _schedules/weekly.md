@@ -35,8 +35,8 @@ schedule:
         location: Lutkin Hall
   - name: Friday
     events:
-      - name: Esteban's Office Hours
+      - name: Office Hours
         start: 12:00 PM
         end: 1:00 PM
-        location: Zoom
+        location: Esteban (Zoom)
 ---
