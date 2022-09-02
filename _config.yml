@@ -30,9 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Canvas:
-    - 'https://'
+    - 'https://canvas.northwestern.edu/courses/175149'
   Piazza:
-    - 'https://'
+    - 'http://piazza.com/northwestern/winter2022/cs340'
 footer_content:
 
 # Collections for website data
