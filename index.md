@@ -9,6 +9,11 @@
 - **Location**: Lutkin Hall
 - **Time** Tuesdays and Thursdays 9:30AM - 10:50AM
 
+## CS340 Public files repository
+
+[CS340 Public files repository](https://github.com/northwestern-cs340/fall2022-public-files)
+
+
 ## Overview
 
 This course provides an introduction to fundamental concepts in the design and implementation of computer communication networks, their protocols, and applications. Topics to be covered include: overview of network architectures, applications (HTTP, Email, BitTorrent), network programming interfaces (e.g., sockets), transport (TCP, UDP), flow control, congestion control, IP, routing , IPv6, multicast, data link protocols, error-detection/correction, multiple access, LAN, Ethernet, wireless networks, and network security. Examples will be drawn primarily from the Internet protocol suite (e.g., HTTP, TCP, and IP). Over the course of the quarter, students will build a web server, reliable transport (like TCP), and implement routing algorithms.
