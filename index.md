@@ -23,7 +23,7 @@ or student should be in the any CS Graduate program (MS or PhD) in order to regi
 
 ## CS340 Public files repository
 
-Please visit our public files repository and clone it to your computer. This repo includes all the files you are going to use for your homeworks and projects.
+Please visit our public files repository and clone it to your computer. This repo includes all the files you are going to use for homeworks and projects.
 
 [CS340 Public files repository](https://github.com/northwestern-cs340/fall2022-public-files)
 
