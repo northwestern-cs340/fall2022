@@ -1,3 +1,12 @@
+---
+layout: home
+title: CS340 - Fall 2022
+nav_exclude: true
+seo:
+type: Course
+name: CS340 - Introduction to Computer Networking
+---
+
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
