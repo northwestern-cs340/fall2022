@@ -8,7 +8,7 @@ Mon Oct 24
 Tue Oct 25
 : **Midterm Exam**{: .label .label-red}
 
-Thu Oct 13
+Thu Oct 27
 : **Lecture 11**{: .label .label-purple }[BGP Routing](#)
 : **Reading**{: .label .label-blue }: _Chapter 5.4 and 5.8: BGP_
 : **Homework 3**{: .label .label-green }: Released
