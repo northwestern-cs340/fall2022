@@ -38,6 +38,10 @@ schedule:
         start: 9:30 AM
         end: 10:50 AM
         location: Lutkin Hall
+      - name: Office Hours
+        start: 11:15 AM
+        end: 12:15 PM
+        location: Andrew (Zoom)
   - name: Friday
     events:
       - name: Office Hours

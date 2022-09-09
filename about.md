@@ -24,10 +24,10 @@ description: >-
 
 ## Office Hours
 
-- Esteban's: Fri 12:00-1:00pm ([Zoom](https://northwestern.zoom.us/j/95312343747))
+- Esteban's: Fri 12:00pm-1:00pm ([Zoom](https://northwestern.zoom.us/j/95312343747))
 - Holly's: Fri 12:00-1:00pm ([Zoom]( ))
-- Luke's: Fri 12:00-1:00pm ([Zoom](https://northwestern.zoom.us/j/92258091856))
-- Andrew's: Fri 12:00-1:00pm ([Zoom]( ))
+- Luke's: Mon 11:00am-12:00pm ([Zoom](https://northwestern.zoom.us/j/92258091856))
+- Andrew's: Thu 11:15am-12:15pm ([Zoom](https://northwestern.zoom.us/j/97528223001))
 
 ---
 
