@@ -20,11 +20,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-  events:
-    - name: Office Hours
-      start: 11:00 AM
-      end: 12:00 PM
-      location: Luke (Zoom)
+    events:
+      - name: Office Hours
+        start: 11:00 AM
+        end: 12:00 PM
+        location: Luke (Zoom)
   - name: Tuesday
     events:
       - name: Lecture

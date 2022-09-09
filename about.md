@@ -26,7 +26,7 @@ description: >-
 
 - Esteban's: Fri 12:00-1:00pm ([Zoom](https://northwestern.zoom.us/j/95312343747))
 - Holly's: Fri 12:00-1:00pm ([Zoom]( ))
-- Luke's: Fri 12:00-1:00pm ([Zoom]( ))
+- Luke's: Fri 12:00-1:00pm ([Zoom](https://northwestern.zoom.us/j/92258091856))
 - Andrew's: Fri 12:00-1:00pm ([Zoom]( ))
 
 ---
