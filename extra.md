@@ -13,3 +13,5 @@ description: >-
 - [**Wizard Zines by Julia Evan**](https://wizardzines.com): Brief zines explaining basic CS and programming concepts
   - [tcpdump](https://jvns.ca/tcpdump-zine.pdf)
   - [networking](https://jvns.ca/networking-zine.pdf)
+
+- [Brief History of the Internet](https://www.internetsociety.org/internet/history-internet/brief-history-internet/) Extraordinary article about how the Internet was invented written by the people who made this possible
