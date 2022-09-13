@@ -22,7 +22,7 @@ The idea of this page is to list articles, blogs, websites and other resources t
 
 - [**Brief History of the Internet**](https://www.internetsociety.org/internet/history-internet/brief-history-internet/). Extraordinary article about how the Internet was invented written by the people who made this possible
 
-## Internet technical and governance bodies
+## Internet's technical and governance bodies
 
 - [**Internet Engineering Task Force (IETF)**](https://www.ietf.org). The IETF is the body where new standards are proposed, discussed and created.
 - [**Internet Corporation for Assigned Names and Numbers (ICANN)**](https://www.icann.org/). ICANN coordinates the use and allocation of unique resources of the Internet such as the address space and DNS top-level domains.
