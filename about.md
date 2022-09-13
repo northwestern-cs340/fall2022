@@ -20,12 +20,12 @@ description: >-
 
 - **Lutkin Hall**
 - Tuesdays and Thursdays 9:30AM - 10:50AM
-- Final exam date: TBD
+- Final exam date: Thursday, 12/08/2022: 12PM-2PM
 
 ## Office Hours
 
 - Esteban's: Fri 12:00pm-1:00pm ([Zoom](https://northwestern.zoom.us/j/95312343747))
-- Holly's: Fri 12:00-1:00pm ([Zoom]( ))
+- Holly's: Tue 2:00-3:00pm ([Zoom](https://northwestern.zoom.us/j/94216723257))
 - Luke's: Mon 11:00am-12:00pm ([Zoom](https://northwestern.zoom.us/j/92258091856))
 - Andrew's: Thu 11:15am-12:15pm ([Zoom](https://northwestern.zoom.us/j/97528223001))
 
