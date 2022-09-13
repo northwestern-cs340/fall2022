@@ -31,10 +31,10 @@ schedule:
         start: 9:30 AM
         end: 10:50 AM
         location: Lutkin Hall
-    - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
-        location: Holly (Zoom)
+      - name: Office Hours
+          start: 2:00 PM
+          end: 3:00 PM
+          location: Holly (Zoom)
   - name: Wednesday
   - name: Thursday
     events:
