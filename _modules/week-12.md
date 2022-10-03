@@ -2,5 +2,5 @@
 title: Week 12
 ---
 
-TBD
-: **Final exam**{: .label .label-red }
+Thu Dec 8
+: **Final exam**{: .label .label-red } 12PM-2PM
